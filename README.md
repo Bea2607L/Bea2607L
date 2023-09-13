@@ -5,7 +5,7 @@
 👩‍💻Uso Alura para estudos
 
 - aprendendo sobre Scratch e JavaScript
-- 
+
 ∽ uso esse lugar pra compartilhar meus projetos de pensamento computacional
 
 $ podem entrar em contato comigo @jhamilly.nicodemo@escola.pr.gov.br
